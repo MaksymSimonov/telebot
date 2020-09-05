@@ -1,0 +1,15 @@
+# Ignores the credentials
+credentials.json
+
+# Ignores a local db
+db.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
